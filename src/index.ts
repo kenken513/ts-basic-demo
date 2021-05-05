@@ -27,3 +27,9 @@
 // import typeAiliasSample from './object/alias'
 // objectSample();
 // typeAiliasSample();
+
+//配列とタプルの型定義
+import arraySample from './array/array'
+import tupleSample from './array/tuple'
+arraySample();
+tupleSample();

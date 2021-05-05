@@ -22,3 +22,8 @@
 // const sum = sumProductsPrice(100, 200, 300, 400, 500)
 // console.log('sum' ,sum);
 
+//オブジェクトの型定義
+// import objectSample from './object/object'
+// import typeAiliasSample from './object/alias'
+// objectSample();
+// typeAiliasSample();

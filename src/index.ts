@@ -35,7 +35,7 @@
 // tupleSample();
 
 //ジェネリック型
-import genericsBasicSample from './generics/basic'
-import genericsAdvancedSample from './generics/advanced'
-genericsBasicSample();
-genericsAdvancedSample();
+// import genericsBasicSample from './generics/basic'
+// import genericsAdvancedSample from './generics/advanced'
+// genericsBasicSample();
+// genericsAdvancedSample();

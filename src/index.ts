@@ -39,3 +39,11 @@
 // import genericsAdvancedSample from './generics/advanced'
 // genericsBasicSample();
 // genericsAdvancedSample();
+
+//非同期処理
+import callbackSample from './asynchronous/collback'
+import promiseSample from './asynchronous/promise'
+import asyncAwaitsample from './asynchronous/asyncAwait'
+// callbackSample()
+// promiseSample()
+asyncAwaitsample()
